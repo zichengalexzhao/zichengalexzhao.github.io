@@ -55,7 +55,6 @@ item:
     organization_url: https://www.coursera.org/
     title: SQL for Data Science
     url: ''
-
 design:
   columns: '1'
 ---
