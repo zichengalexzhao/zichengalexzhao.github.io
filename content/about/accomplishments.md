@@ -23,29 +23,37 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_wWnTLepMyCmvt6rpd_1725836084909_completion_certificate.pdf
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2024-09-25'
+    description: ''
+    organization: Forage
+    organization_url: https://www.theforage.com/
+    title: BCG - Data Science Job Simulation
+    url: 'https://github.com/zichengalexzhao/BCGDataScienceProject'
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/JN2DDBH4GMCF?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+    date_end: ''
+    date_start: '2024-05-18'
     description: ''
     organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization_url: https://www.coursera.org/
+    title: Data Wrangling, Analysis and AB Testing with SQL
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/EWYRTCTDZNJQ
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2024-05-13'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Coursera
+    organization_url: https://www.coursera.org/
+    title: Foundations: Data, Data, Everywhere
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/EPTSR3T77RDK?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+    date_end: ''
+    date_start: '2024-04-12'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org/
+    title: SQL for Data Science
     url: ''
 
 design:
