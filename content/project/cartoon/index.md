@@ -4,5 +4,5 @@ summary: Explored how mating motives influence consumer preferences for appearan
 tags:
   - CB
 date: 2024-06-01
-external_link: http://github.com
+external_link: https://github.com/zichengalexzhao/matingmotive
 ---
