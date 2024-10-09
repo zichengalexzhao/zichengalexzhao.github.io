@@ -42,7 +42,7 @@ experience:
   - title: Marketing Analyst Manager, Practicum Project
     company: Shell (China) Limited
     company_url: 'https://www.shell.com.cn/en_cn.html'
-    company_logo: at.png
+    company_logo: org-gc
     location: Xiamen, CHN
     date_start: '2023-12-01'
     date_end: '2024-05-31'
