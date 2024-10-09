@@ -48,7 +48,7 @@ social:
 # Uncomment below for Github link
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/zichengalexzhao
   
   - icon: linkedin
     icon_pack: fab
