@@ -44,7 +44,7 @@ item:
     date_start: '2024-05-13'
     description: ''
     organization: Coursera
-    organization_url: https://www.coursera.org/
+    organization_url: 'https://www.coursera.org/'
     title: Foundations: Data, Data, Everywhere
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/verify/EPTSR3T77RDK?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
