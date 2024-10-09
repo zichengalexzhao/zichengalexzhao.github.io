@@ -25,7 +25,7 @@ experience:
   - title: MS Business Analytics
     company: University of California, Davis
     company_url: 'https://www.ucdavis.edu/'
-    company_logo: org-x
+    company_logo: custom/ucd
     location: San Francisco, CA
     date_start: '2024-08-01'
     date_end: '2025-08-01'
@@ -38,7 +38,7 @@ experience:
   - title: BSc Marketing
     company: Xiamen University
     company_url: 'https://en.xmu.edu.cn/main.htm'
-    company_logo: org-x
+    company_logo: custom/xmu
     location: Xiamen, CHN
     date_start: '2020-09-01'
     date_end: '2024-06-30'

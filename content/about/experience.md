@@ -42,7 +42,7 @@ experience:
   - title: Marketing Analyst Manager, Practicum Project
     company: Shell (China) Limited
     company_url: 'https://www.shell.com.cn/en_cn.html'
-    company_logo: org-gc
+    company_logo: custom/shell
     location: Xiamen, CHN
     date_start: '2023-12-01'
     date_end: '2024-05-31'
@@ -70,7 +70,7 @@ experience:
   - title: Quantitative Research Intern
     company: IPSOS
     company_url: 'https://www.ipsos.com/en-us'
-    company_logo: org-x
+    company_logo: custom/ipsos
     location: Guangzhou, CHN
     date_start: '2023-04-01'
     date_end: '2023-08-31'
