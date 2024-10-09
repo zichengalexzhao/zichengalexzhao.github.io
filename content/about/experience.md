@@ -25,7 +25,7 @@ experience:
   - title: Data Analyst, Practicum Project
     company: Alexander Tutoring
     company_url: 'https://alexandertutoring.com/'
-    company_logo: org-gc
+    company_logo: custom/at
     location: San Francisco, CA
     date_start: '2024-08-01'
     date_end: ''
