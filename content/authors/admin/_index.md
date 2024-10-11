@@ -64,9 +64,9 @@ social:
 #email: ""
 ---
 
-As I embark on my MSBA journey at UC Davis , I bring a rich foundation in marketing from Xiamen University and a diverse set of experiences in data analysis, market research, and digital content strategy.
+As I embark on my Master of Science at Business Analytics journey at UC Davis , I bring a rich foundation in marketing from Xiamen University and a diverse set of experiences in data analysis, market research, and digital content strategy.
 
-My professional experience spans in-depth industry analysis at Ningbo Powerhouse Capital LLP to advanced quantitative research using Python and SPSS at IPSOS. These experiences have sharpened my analytical skills and fueled my passion for leveraging data to unlock business insights and drive strategic decisions.
+My professional experience spans in-depth industry analysis and these experiences have sharpened my analytical skills and fueled my passion for leveraging data to unlock business insights and drive strategic decisions.
 
 Driven by the transformative power of data analytics, I aim to contribute to innovative environments where my skills in predictive modeling, data visualization, and strategic analysis can solve complex challenges and propel business growth. My goal is to merge data science with business acumen, using my analytical skills and creative problem-solving to generate impactful solutions.
 

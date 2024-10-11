@@ -30,7 +30,7 @@ experience:
     date_start: '2024-08-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        *Python, R, SQL, Machine Learning(K-Means, Logistic Regression)*
         
         * Established a data analytics framework to calculate key KPIs, including a 68% churn rate and revenue trends, by cleaning and analyzing Stripe payment and Google Calendar data
         
@@ -47,7 +47,7 @@ experience:
     date_start: '2023-12-01'
     date_end: '2024-05-31'
     description: |2-
-        Responsibilities include:
+        *Python, A/B Testing, Tableau*
         
         * Boosted campaign effectiveness by 12% through data-driven strategies, including audience segmentation with cluster analysis, A/B testing for content optimization, and performance tracking via key KPIs like conversion rates
         
@@ -61,7 +61,7 @@ experience:
     date_start: '2023-09-01'
     date_end: '2023-12-31'
     description: |2-
-        Responsibilities include:
+        *Python, Advanced Excel, Tableau*
         
         * Enhanced financial forecasts by analyzing private equity sales balance sheets using Python’s Pandas package. Calculated key metrics such as debt-to-equity ratios, leading to more accurate financial modeling
         
@@ -75,7 +75,7 @@ experience:
     date_start: '2023-04-01'
     date_end: '2023-08-31'
     description: |2-
-        Responsibilities include:
+        *Python, A/B Testing, Statistical Analysis, SQL, Advanced Excel, Marketing Research*
         
         * Conducted A/B testing and statistical analysis using Python to evaluate the effectiveness of different marketing strategies, uncovering 8% increase in customer engagement for DiDi’s South American market
         
