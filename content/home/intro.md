@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alex**, a Business Analyst Master student at UC Davis
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+If the universe’s end is predestined—to perish or return to the silence of death—then the process becomes the essence of our existence; it’s the only aspect we can influence. I find joy in the journey of data analysis. While results hold their importance, it’s the act of exploring data and uncovering insights that truly captivates me. I am passionate about delving into data, not just for the outcomes but for the enriching experience of discovery along the way.
+{style="font-size: 1.0rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below 😍
