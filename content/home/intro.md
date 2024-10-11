@@ -19,6 +19,6 @@ author: admin
 ---
 
 The universe may be destined to perish, but the process is what we can influence. For me, it’s the process of data analysis that excites me. While results are crucial, the true joy lies in exploring data, gaining insights, and uncovering hidden patterns. It’s not just about the outcomes—it’s about the journey of discovery 🥾
-{style="font-size: 1.0rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below 😍
