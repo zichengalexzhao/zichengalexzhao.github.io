@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zicheng (Alex) Zhao  *he/his/him*
+title: Zicheng (Alex) Zhao
 
 # Is this the primary user of the site?
 superuser: true
