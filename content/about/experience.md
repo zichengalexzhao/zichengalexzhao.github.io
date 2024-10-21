@@ -47,7 +47,7 @@ experience:
     date_start: '2023-12-01'
     date_end: '2024-05-31'
     description: |2-
-        *Python, A/B Testing, Tableau*
+        *Python, A/B Testing, Tableau, Markeing Analysis*
         
         * Boosted campaign effectiveness by 12% through data-driven strategies, including audience segmentation with cluster analysis, A/B testing for content optimization, and performance tracking via key KPIs like conversion rates
         
@@ -75,7 +75,7 @@ experience:
     date_start: '2023-04-01'
     date_end: '2023-08-31'
     description: |2-
-        *Python, A/B Testing, Statistical Analysis, SQL, Advanced Excel, Marketing Research*
+        *Python, A/B Testing, Statistical Analysis, SQL, Advanced Excel*
         
         * Conducted A/B testing and statistical analysis using Python to evaluate the effectiveness of different marketing strategies, uncovering 8% increase in customer engagement for DiDi’s South American market
         
