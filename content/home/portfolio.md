@@ -34,6 +34,8 @@ content:
       tag: NLP
     - name: Consumer Behavior
       tag: CB
+    - name: Statistical Analysis
+      tag: SA
 
 design:
   columns: '1'
