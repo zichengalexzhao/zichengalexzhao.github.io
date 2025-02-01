@@ -1,5 +1,5 @@
 ---
-title: TAnalysis of Shanwen Gao's Speech
+title: Analysis of Shanwen Gao's Speech
 summary: Emperically analyzing that China's official GDP growth figures are highly likely overstated.
 tags:
   - SA
