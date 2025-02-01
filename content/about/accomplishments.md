@@ -29,8 +29,8 @@ item:
     description: ''
     organization: Tableau
     organization_url: https://www.tableau.com/learn/certification/desktop-specialist
-    title: SQL for Data Science
-    url: ''
+    title: Tableau Desktop Specialist
+    url: 'https://www.credly.com/badges/6a04c7f6-0662-49f5-86b7-79bca069c3c6/linked_in_profile'
   - certificate_url: https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_wWnTLepMyCmvt6rpd_1725836084909_completion_certificate.pdf
     date_end: ''
     date_start: '2024-09-25'
