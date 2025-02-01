@@ -37,6 +37,7 @@ item:
     date_start: '2024-09-25'
     description: ''
     organization: Forage
+    organization_icon: forage
     organization_url: https://www.theforage.com/
     title: BCG - Data Science Job Simulation
     url: 'https://github.com/zichengalexzhao/BCGDataScienceProject'
