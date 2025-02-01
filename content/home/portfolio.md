@@ -32,10 +32,11 @@ content:
       tag: ML
     - name: NLP
       tag: NLP
-    - name: Consumer Behavior
-      tag: CB
     - name: Statistical Analysis
       tag: SA
+    - name: Consumer Behavior
+      tag: CB
+    
 
 design:
   columns: '1'
