@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item
+item:
     - certificate_url: https://www.credly.com/badges/6a04c7f6-0662-49f5-86b7-79bca069c3c6/linked_in_profile
     date_end: ''
     date_start: '2025-1-12'
