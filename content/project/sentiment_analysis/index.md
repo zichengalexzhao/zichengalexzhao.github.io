@@ -1,5 +1,5 @@
 ---
-title: Twitter US Airline Sentiment Analysis Dashboard - Data Science Showcase
+title: Twitter US Airline Sentiment Analysis Dashboard
 summary: The goal of this project is to analyze social media sentiment by leveraging NLP techniques and interactive visualizations. The dashboard processes Twitter data using TextBlob and NLTK, visualizes trends with Plotly and Dash, and is deployed live on Heroku to provide actionable insights.
 tags:
   - NLP
