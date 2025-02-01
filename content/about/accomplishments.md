@@ -27,7 +27,8 @@ item:
     date_end: ''
     date_start: '2025-01-12'
     description: ''
-    organization: tableau
+    organization: Tableau
+    organization_icon: tableau
     organization_url: https://www.tableau.com/learn/certification/desktop-specialist
     title: Tableau Desktop Specialist
     url: ''
