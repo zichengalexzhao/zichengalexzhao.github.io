@@ -34,10 +34,11 @@ content:
       tag: NLP
     - name: Statistical Analysis
       tag: SA
-    - name: Consumer Behavior
-      tag: CB
     - name: LLM
       tag: LLM
+    - name: Consumer Behavior
+      tag: CB
+
     
 
 design:
