@@ -36,6 +36,8 @@ content:
       tag: SA
     - name: Consumer Behavior
       tag: CB
+    - name: LLM
+      tag: LLM
     
 
 design:
