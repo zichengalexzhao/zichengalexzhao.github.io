@@ -50,7 +50,7 @@ experience:
 
         
 
-  - title: Marketing Analyst Manager, Practicum Project
+  - title: Marketing Analyst
     company: Shell (China) Limited
     company_url: 'https://www.shell.com.cn/en_cn.html'
     company_logo: custom/shell
@@ -58,7 +58,7 @@ experience:
     date_start: '2023-12-01'
     date_end: '2024-05-31'
     description: |2-
-        *Python, A/B Testing, Tableau, Markeing Analysis*
+        *Python, A/B Testing, Power BI, Markeing Analysis*
         
         * Applied A/B testing and statistical methods to evaluate and refine digital marketing strategies, resulting in a 12% improvement in campaign conversion rates and enhanced customer segmentation
 
