@@ -732,31 +732,36 @@ main {
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
-  gap: 10px;
+  gap: 5px;
   margin: 0 -15px;
-  padding: 25px;
-  padding-bottom: 25px;
+  padding: 15px;
+  padding-bottom: 20px;
   overflow-x: auto;
   scroll-behavior: smooth;
   overscroll-behavior-inline: contain;
   scroll-snap-type: inline mandatory;
-  scroll-padding-inline: 25px;
+  scroll-padding-inline: 15px;
 }
 
 .clients-item img {
-    width: 100px; /* 统一宽度，与第二个图片匹配 */
-    height: 100px; /* 统一高度，确保比例协调 */
-    object-fit: contain; /* 确保图片完整显示，不变形 */
-    filter: grayscale(1); /* 保留现有效果 */
-    transition: var(--transition-1); /* 保留现有效果 */
-    background-color: transparent; /* 保留现有效果 */
-    display: block; /* 保留现有效果 */
-    margin: 0 auto; /* 居中显示 */
+  width: auto; /* Kept */
+  height: 100px; /* Kept */
+  filter: grayscale(1); /* Kept */
+  transition: var(--transition-1); /* Kept */
+  background-color: transparent; /* Kept */
+  display: block; /* Ensure the image behaves as a block element */
+  margin: 0 auto; /* Center the image horizontally */
 }
 
-.clients-item img:hover {
-    filter: grayscale(0); /* 保留悬停效果 */
+.clients-item img {
+  width: auto; /* Changed from 100% */
+  height: 80px; /* New rule */
+  filter: grayscale(1); /* Kept */
+  transition: var(--transition-1); /* Kept */
+  background-color: transparent; /* New rule */
 }
+
+.clients-item img:hover { filter: grayscale(0); }
 
 
 
